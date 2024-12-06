@@ -22,3 +22,5 @@
 
 ### **Overall Summary**
 The experiments provided valuable insights into the behavior of stochastic and chaotic systems, emphasizing the importance of distribution properties, parameter sensitivity, and system complexity. The findings are foundational for fields like chaos theory, time series prediction, and dynamic system modeling.
+
+Notebooks generates graphs and animations.
